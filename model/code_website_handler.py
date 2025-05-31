@@ -26,6 +26,8 @@ class CodeWebsiteHandler:
                 CodeWebsiteHandler.DEFAULT_WEBSITES
             )
             json_handler.write_json(self.__websites)
+        else:
+            self.__websites = websites
 
     def get_websites(self) -> Mapping[str, list[str]]:
         return self.__websites
