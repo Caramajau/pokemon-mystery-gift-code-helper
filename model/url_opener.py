@@ -1,6 +1,7 @@
 import webbrowser
 
-class URLOpener():
+
+class URLOpener:
     def __init__(self) -> None:
         self.__urls: list[str] = []
 
