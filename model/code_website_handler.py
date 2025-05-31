@@ -5,7 +5,7 @@ from model.json_handler import JSONHandler
 
 
 class CodeWebsiteHandler:
-    # Only "recent" ones included and also just game8 as they seemed to have a quite good list.
+    # Only "recent" ones included and also just game8 as they seemed to have good lists.
     DEFAULT_WEBSITES: Final[Mapping[str, list[str]]] = {
         "sv": ["https://game8.co/games/Pokemon-Scarlet-Violet/archives/384443"],
         "la": ["https://game8.co/games/Pokemon-Legends-Arceus/archives/353314"],
