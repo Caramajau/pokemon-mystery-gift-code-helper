@@ -18,7 +18,7 @@ class CodeWebsiteHandler:
     DATA_PATH: Final[str] = os.path.join("data", "websites.json")
 
     def __init__(self) -> None:
-        json_handler: JSONHandler = JSONHandler(CodeWebsiteHandler.DATA_PATH)
+        json_handler: JSONHandler[list[str]] = JSONHandler(CodeWebsiteHandler.DATA_PATH)
 
         websites: Mapping[str, list[str]] = json_handler.read_json()
         if len(websites) < 1:
