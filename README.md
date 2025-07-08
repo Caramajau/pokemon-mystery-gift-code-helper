@@ -4,7 +4,7 @@ Then this application is for you!
 
 Current games included: 
 - sv (Scarlet and Violet)
-- la (Legends Arecus)
+- la (Legends Arceus)
 - bdsp (Brilliant Diamond and Shining Pearl)
 - swsh (Sword and Shield)
 
