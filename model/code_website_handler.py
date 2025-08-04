@@ -1,7 +1,7 @@
 import os
 from typing import Final, Mapping
 
-from model.json_handler import JSONHandler
+from json_handler_caramajau.json_handler import JSONHandler
 
 
 class CodeWebsiteHandler:
