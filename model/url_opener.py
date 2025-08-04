@@ -1,5 +1,5 @@
-from collections.abc import Iterable
 import webbrowser
+from collections.abc import Iterable
 
 
 def open_urls(urls: Iterable[str]) -> None:

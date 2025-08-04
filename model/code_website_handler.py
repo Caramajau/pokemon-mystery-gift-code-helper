@@ -1,7 +1,8 @@
-import os
-from typing import Final, Mapping
+from collections.abc import Mapping
+from os import path
+from typing import Final
 
-from model.json_handler import JSONHandler
+from json_handler_caramajau.json_handler import JSONHandler
 
 
 class CodeWebsiteHandler:
@@ -15,7 +16,7 @@ class CodeWebsiteHandler:
         "swsh": ["https://game8.co/games/pokemon-sword-shield/archives/280987"],
     }
 
-    DATA_PATH: Final[str] = os.path.join("data", "websites.json")
+    DATA_PATH: Final[str] = path.join("data", "websites.json")
 
     def __init__(self) -> None:
         json_handler: JSONHandler[list[str]] = JSONHandler(CodeWebsiteHandler.DATA_PATH)
