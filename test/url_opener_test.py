@@ -1,6 +1,7 @@
 import webbrowser
+from unittest import TestCase, main
 from unittest.mock import patch
-from unittest import main, TestCase
+
 from model.url_opener import open_url, open_urls
 
 

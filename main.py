@@ -1,4 +1,5 @@
-from typing import Mapping
+from collections.abc import Mapping
+
 from model.code_website_handler import CodeWebsiteHandler
 from model.url_opener import open_urls
 
