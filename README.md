@@ -2,10 +2,15 @@
 
 Then this application is for you!
 
-Current games included: 
-- sv (Scarlet and Violet)
-- la (Legends Arceus)
-- bdsp (Brilliant Diamond and Shining Pearl)
-- swsh (Sword and Shield)
+Current mainline games included: 
+- sv (Pokémon Scarlet and Violet)
+- la (Pokémon Legends Arceus)
+- bdsp (Pokémon Brilliant Diamond and Shining Pearl)
+- swsh (Pokémon Sword and Shield)
 
-**Disclaimer:** This software is an independent project and is not affiliated with, endorsed by, or sponsored by Nintendo, The Pokémon Company, Game Freak, or Game8. All trademarks and copyrights related to Pokémon are the property of their respective owners.
+Current spin-off games included:
+- unite (Pokémon UNITE)
+- go (Pokémon GO)
+- ptcgp (Pokémon TCG Pocket)
+
+**Disclaimer:** This software is an independent project and is not affiliated with, endorsed by, or sponsored by Nintendo, The Pokémon Company, Game Freak, Game8, IGN, or Pocket Tactics. All trademarks and copyrights related to Pokémon are the property of their respective owners.
