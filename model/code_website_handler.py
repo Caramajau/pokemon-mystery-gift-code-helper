@@ -9,6 +9,7 @@ class CodeWebsiteHandler:
     # Only "recent" ones included and mostly game8 as they seemed to have good lists.
     DEFAULT_WEBSITES: Final[Mapping[str, list[str]]] = {
         # Mainline games
+        "lza": ["https://game8.co/games/Pokemon-Legends-Z-A/archives/556197"],
         "sv": ["https://game8.co/games/Pokemon-Scarlet-Violet/archives/384443"],
         "la": ["https://game8.co/games/Pokemon-Legends-Arceus/archives/353314"],
         "bdsp": [
