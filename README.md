@@ -15,9 +15,10 @@ Now [that](#what-is-it) might sound oddly specific and niche, but it serves a pu
 After installing the application, simply run `PokemonMysteryGiftCodeHelper.exe` and enter the abbreviation for the Pokémon game you want to get codes for.
 
 ### Current games included
-Current mainline games included: 
+Current mainline games included:
+- lza (Pokémon Legends: Z-A)
 - sv (Pokémon Scarlet and Violet)
-- la (Pokémon Legends Arceus)
+- la (Pokémon Legends: Arceus)
 - bdsp (Pokémon Brilliant Diamond and Shining Pearl)
 - swsh (Pokémon Sword and Shield)
 
@@ -29,6 +30,6 @@ Current spin-off games included:
 ### Additional Details
 There are default articles included, but all of that can be modified by changing the links in the JSON file. In addition, multiple articles can be connected to one game.
 
-**Disclaimer:** This software is an independent project and is not affiliated with, endorsed by, or sponsored by Nintendo, The Pokémon Company, Game Freak, Game8, IGN, or Pocket Tactics. All trademarks and copyrights related to Pokémon are the property of their respective owners.
+**Disclaimer:** This software is an independent project and is not affiliated with, endorsed by, or sponsored by Nintendo, The Pokémon Company, Game Freak, Game8, IGN or Pocket Tactics. All trademarks and copyrights related to Pokémon are the property of their respective owners.
 
 If you have any suggestions or feature requests, feel free to open an issue on the [Issues](https://github.com/Caramajau/pokemon-mystery-gift-code-helper/issues) page.
