@@ -23,6 +23,7 @@ Current mainline games included:
 - swsh (Pokémon Sword and Shield)
 
 Current spin-off games included:
+- cmp (Pokémon Champions)
 - unite (Pokémon UNITE)
 - go (Pokémon GO)
 - ptcgp (Pokémon TCG Pocket)
@@ -30,6 +31,6 @@ Current spin-off games included:
 ### Additional Details
 There are default articles included, but all of that can be modified by changing the links in the JSON file. In addition, multiple articles can be connected to one game.
 
-**Disclaimer:** This software is an independent project and is not affiliated with, endorsed by, or sponsored by Nintendo, The Pokémon Company, Game Freak, Game8, IGN or Pocket Tactics. All trademarks and copyrights related to Pokémon are the property of their respective owners.
+**Disclaimer:** This software is an independent project and is not affiliated with, endorsed by, or sponsored by Nintendo, The Pokémon Company, Game Freak, Game8, IGN, Pocket Tactics or Nintendo Life. All trademarks and copyrights related to Pokémon are the property of their respective owners.
 
 If you have any suggestions or feature requests, feel free to open an issue on the [Issues](https://github.com/Caramajau/pokemon-mystery-gift-code-helper/issues) page.
