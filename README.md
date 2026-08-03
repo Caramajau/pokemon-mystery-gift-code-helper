@@ -1,10 +1,10 @@
 ## Pokémon Mystery Gift Code Helper
 
 ### What is it?
-If you've ever wanted to start an application, write the abbreviation for a Pokémon game, and see the available mystery gift codes, then this application is for you!
+It is an application where you write the abbreviation for a Pokémon game and then see the available mystery gift codes (often Game8 lists).
 
 ### Why does it exist?
-Now [that](#what-is-it) might sound oddly specific and niche, but it serves a purpose for anyone who wants to keep track of their mystery gift codes easily. Much time can be spent searching and then looking for articles with codes, but that is no more with this application. Here, one article has been chosen for each game (see [included games below](#current-games-included)) based on their relevance and the availability of codes to hopefully provide the *best* article for each game.
+Much time can be spent searching and then looking for articles with codes, but that is no more with this application. This application helps anyone who wants to keep track of their mystery gift codes and doesn't want to bookmark the found articles in their web browser. Here, one article has been chosen for each game (see [included games below](#current-games-included)) based on their relevance and the availability of codes to hopefully provide the *best* article for each game.
 
 ### Installation
 1. Download the latest build from the [Releases](https://github.com/Caramajau/pokemon-mystery-gift-code-helper/releases) page.
