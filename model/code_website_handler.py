@@ -17,6 +17,7 @@ class CodeWebsiteHandler:
         ],
         "swsh": ["https://game8.co/games/pokemon-sword-shield/archives/280987"],
         # Spin-off games
+        "cmp": ["https://www.nintendolife.com/guides/pokemon-champions-mystery-gift-codes-list"],
         "unite": ["https://game8.co/games/Pokemon-UNITE/archives/355379"],
         "go": ["https://www.pockettactics.com/pokemon-go/codes"],
         "ptcgp": [
